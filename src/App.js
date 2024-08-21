@@ -7,6 +7,7 @@ import { AuthProvider } from "./contexts/AuthContext";
 import ThemeProvider from "./contexts/ThemeProvider";
 import { Typography } from "@mui/material";
 
+// eslint-disable-next-line no-unused-vars
 function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
